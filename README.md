@@ -1,1 +1,1 @@
-# Java-Project
+# Group Chatting Application
